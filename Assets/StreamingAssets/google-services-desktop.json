@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773810903927",
+    "firebase_url": "https://fir-implementation-cab14-default-rtdb.firebaseio.com",
+    "project_id": "fir-implementation-cab14",
+    "storage_bucket": "fir-implementation-cab14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773810903927:android:8d946d33b950e1001e9f72",
+        "android_client_info": {
+          "package_name": "com.Menguiza.MicrosoftChibeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773810903927-cqk3nirkoj43j0ockdie9l735sgr4t3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIekBf0idfFPBx4g8se1LSvokdqJ-jv6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773810903927-cqk3nirkoj43j0ockdie9l735sgr4t3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
