@@ -121,7 +121,7 @@ public class AuthManager : MonoBehaviour
         }
         else
         {
-            user = loginTask.Result;
+            user = loginTask.Result.User;
             Debug.LogFormat($"User signed in successfully: {user.DisplayName}, {user.Email}");
 
             warningLogin.text = "";
@@ -181,7 +181,7 @@ public class AuthManager : MonoBehaviour
             }
             else
             {
-                user = registerTask.Result;
+                user = registerTask.Result.User;
 
                 if (user != null)
                 {
